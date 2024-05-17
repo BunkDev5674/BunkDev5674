@@ -1,1 +1,1 @@
-[![Harlok's WakaTime stats]([https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs](https://stats-jn1wa1zr9-bunkdev5674s-projects.vercel.app/api/wakatime?username=donkeybreath123))](https://timmy.finance)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
